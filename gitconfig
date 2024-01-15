@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bastien.dubrayÃ@gmail.col
+	name = bastien dubray
